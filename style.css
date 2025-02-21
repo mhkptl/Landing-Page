@@ -109,3 +109,27 @@ img {
     margin: 20px auto;
     opacity: 0.75;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    
+}
+
+.quotation {
+    font-style: italic;
+    font-weight: 100;
+    opacity: 0.8;
+    color: #1F2937;
+    font-size: 36px;
+    margin-top: 84px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: 900;
+    text-align: end;
+    margin-right: 400px;
+    margin-bottom: 84px;
+}
