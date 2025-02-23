@@ -133,3 +133,21 @@ img {
     margin-right: 400px;
     margin-bottom: 84px;
 }
+
+.action {
+    color: white;
+    background-color: #3882f6;
+    margin: 64px;
+    padding: 64px;
+    border-radius: 15px;
+    display:flex;
+    gap: 200px;
+    align-items: center;
+}
+
+.action button {
+    height: 44px;
+    width: 132px;
+    border: 2px solid;
+    border-color: white;
+}
